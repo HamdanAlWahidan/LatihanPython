@@ -1,7 +1,7 @@
 # LatihanPython
 # TUGAS LAB 1
 
-*Pada syntax/source code string format 1 menampilkan output berupa 2 outputan. Yang pertama (sebelah kiri) akan menampilkan angka urut dari angka 0 hingga 10, sedangkan sebelah kanan akan menampilkan operasi artimatika pangkat.
+* Pada syntax/source code string format 1 menampilkan output berupa 2 outputan. Yang pertama (sebelah kiri) akan menampilkan angka urut dari angka 0 hingga 10, sedangkan sebelah kanan akan menampilkan operasi artimatika pangkat.
 
 ### Hasil
 
@@ -10,8 +10,8 @@
 
 
 # TUGAS LAB 2
-*Pada syntax/source pertama berisikan inputan data yang akan di masukan ke dalam program
-*Pada syntax/source kedua mengconversikan hasil data pertama ke berbagai pecahan yang akan mengahasilkan data seperti ini.
+* Pada syntax/source pertama berisikan inputan data yang akan di masukan ke dalam program
+* Pada syntax/source kedua mengconversikan hasil data pertama ke berbagai pecahan yang akan mengahasilkan data seperti ini.
 
 ### Hasil
 
